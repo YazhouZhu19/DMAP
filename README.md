@@ -1,7 +1,7 @@
 # DMAP
 Code for paper: Learning De-biased Prototypes for Few-Shot Medical Image Segmentation
 
-![](./overview.png)
+![](./overview.PNG)
 
 
 #### Abstract
