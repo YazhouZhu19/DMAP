@@ -42,3 +42,18 @@ Pre-processing is performed according to [Ouyang et al.](https://github.com/chen
 
 ### Inference
 Run `./script/test.sh` 
+
+## Citation
+```bibtex
+@article{zhu2024learning,
+  title={Learning De-biased prototypes for few-shot medical image segmentation},
+  author={Zhu, Yazhou and Cheng, Ziming and Wang, Shidong and Zhang, Haofeng},
+  journal={Pattern Recognition Letters},
+  year={2024},
+  publisher={Elsevier}
+}
+```
+
+
+
+
