@@ -4,7 +4,7 @@ The official implementation of paper: Learning De-biased Prototypes for Few-Shot
 <p align="center"><img width="75%" src="./overview.PNG" />
 
 
-## Brief Introduction  
+## Introduction  
 Prototypical networks have emerged as the dominant method for Few-shot Medical image Segmentation (FSMIS). Despite their success, the commonly used Masked Average Pooling (MAP) approach in prototypical networks computes the mean of the masks, resulting in imprecise and inadequate prototypes that fail to capture the subtle nuances and variations in the data. To address this issue, we propose a simple yet effective module called De-biasing Masked Average Pooling (DMAP) to generate more accurate prototypes from filtered foreground support features. Specifically, our approach introduces a Learnable Threshold Generation (LTG) module that adaptively learns a threshold based on the extracted features from both support and query images, and then choose partial foreground pixels that have larger similarity than the threshold to generate prototypes.
 
 ## Getting started
