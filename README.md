@@ -1,5 +1,5 @@
 # DMAP
-The official implementation of paper: Learning De-biased Prototypes for Few-Shot Medical Image Segmentation
+The official implementation of paper: Learning De-biased Prototypes for Few-shot Medical Image Segmentation
 
 <p align="center"><img width="75%" src="./overview.PNG" />
 
